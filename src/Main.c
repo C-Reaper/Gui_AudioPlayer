@@ -24,7 +24,7 @@ void Update(AlxWindow* w){
 	Clear(BLACK);
 
 	//String str = String_Format("MI:%d",nMaxIterations);
-	//CStr_RenderSizeAlxFont(WINDOW_STD_ARGS,&window.AlxFont,str.Memory,str.size,0.0f,0.0f,WHITE);
+	//CStr_RenderSizeAlxFont(WINDOW_STD_ARGS,&window.font,str.Memory,str.size,0.0f,0.0f,WHITE);
 	//String_Free(&str);
 }
 void Delete(AlxWindow* w){
